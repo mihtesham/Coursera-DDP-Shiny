@@ -1,0 +1,9 @@
+name: shiny-app
+account: mihtesham
+server: shinyapps.io
+appId: 122657
+bundleId: 543038
+url: https://mihtesham.shinyapps.io/shiny-app/
+when: 1472429332.42378
+asMultiple: FALSE
+asStatic: FALSE
